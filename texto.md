@@ -1,4 +1,4 @@
 Bruno Gonzalez
 Lovity
 github
-mandarlo al local
+mandarlo al locala
